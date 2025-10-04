@@ -4,7 +4,7 @@
     <style>
       @font-face {
           font-family: 'Cynatar';
-          src: url('Cynatar.otf') format('opentype');
+          src: url('https://github.com/0x53A/0x53A/blob/main/Cynatar.otf') format('opentype');
           font-weight: normal;
           font-style: normal;
           font-display: swap;
